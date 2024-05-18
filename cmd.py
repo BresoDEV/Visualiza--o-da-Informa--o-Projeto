@@ -94,7 +94,7 @@ def cabecalho():
  print('     | ')
  print('     | Nome: Eduardo Bresolin')
  print('     | Curso: Ciências da Computação')
- print('     | RGM: 33877751')
+  
  print('     | Polo: Caxias do Sul ')
  print('     ---------------------------------------------\n\n')
  print('     0 : Grafico Pizza')

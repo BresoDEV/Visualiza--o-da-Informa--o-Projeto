@@ -81,7 +81,7 @@ janela.title("Visualização da Informação")
 janela.geometry("300x300") 
 
 # Label com minhas infos
-label = tk.Label(janela, text="Projeto Pratico de Visualização da Informação\nNome: Eduardo Bresolin\nCurso: Ciências da Computação'\nRGM: 33877751'\nPolo: Caxias do Sul ")
+label = tk.Label(janela, text="Projeto Pratico de Visualização da Informação\nNome: Eduardo Bresolin\nCurso: Ciências da Computação'\nPolo: Caxias do Sul ")
 label.pack(pady=10)
 
 # Pizza
