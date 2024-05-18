@@ -5,7 +5,7 @@ Visualização de tabelas do crescimento da população brasileira ao decorrer d
 Projeto feito na versao 3.7.8 do Python
  
 
-## Instalação:
+## Instalação de dependências:
  
 ```sh
 pip install matplotlib 
