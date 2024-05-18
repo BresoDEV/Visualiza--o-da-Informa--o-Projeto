@@ -1,7 +1,7 @@
 # Projeto Pratico de Visualização da Informação
  
  
-Visualização de tabelas do crescimento da população brasileira ao decorrer dos anos 
+Visualização de tabelas do crescimento da população brasileira ao decorrer dos anos   
 Projeto feito na versao 3.7.8 do Python
  
 
