@@ -82,15 +82,15 @@ label = tk.Label(janela, text="Projeto Pratico de Visualização da Informação
 label.pack(pady=10)
 
 # Pizza
-botao_1 = tk.Button(janela, text="Sexos", command=Pizza)
+botao_1 = tk.Button(janela, text="Diferença de Sexos (Grafico Pizza)", command=Pizza)
 botao_1.pack(pady=5)
 
 # Barra
-botao_2 = tk.Button(janela, text="Etnias", command=Barra)
+botao_2 = tk.Button(janela, text="Diferença de Etnias (Grafico de Barras)", command=Barra)
 botao_2.pack(pady=5)
 
 # Linha
-botao_3 = tk.Button(janela, text="Crescimento", command=Linha)
+botao_3 = tk.Button(janela, text="Crescimento Populacional (Grafico de Linha)", command=Linha)
 botao_3.pack(pady=5)
  
 
