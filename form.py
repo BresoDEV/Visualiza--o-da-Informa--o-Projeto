@@ -95,7 +95,7 @@ botao_3.pack(pady=5)
  
 
 # Meus creditos 
-creditos = tk.Label(janela, text="18/05/2024")
+creditos = tk.Label(janela, text="Data dos dados: 18/05/2024")
 creditos.pack(pady=10)
 
 # loop que volta pra janela
