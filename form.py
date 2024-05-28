@@ -99,4 +99,4 @@ creditos = tk.Label(janela, text="Data dos dados: 18/05/2024")
 creditos.pack(pady=10)
 
 # loop que volta pra janela
-janela.mainloop()
+#janela.mainloop()
